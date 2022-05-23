@@ -1,0 +1,2 @@
+# GifLib
+The Gif Module
