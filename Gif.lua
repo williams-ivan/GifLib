@@ -228,13 +228,8 @@ end
 --****************************************************
 function Gif:Destroy()
 	self:Stop()
-	if self.framePositions then
-		table.clear(self.framePositions)
-	end
-	if self.instance then
-		self.instance = nil
-	end
-	self = nil
+	table.clear(self)
+	setmetatable(self, nil)
 end
 
 return Gif
