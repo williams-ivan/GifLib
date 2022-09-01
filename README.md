@@ -1,5 +1,5 @@
 # GifLib
-The Gif Module; the class for creating gifs on Roblox.
+The class for creating gifs on Roblox.
 
 ## Constructor
 | Name | Description |
