@@ -1,7 +1,7 @@
 # GifLib
 The class for creating GIFs on Roblox.
 
-![](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/e/6/1/e6176fbbced47d0006083c05cc3c16e09cd34b69.gif)
+![e6176fbbced47d0006083c05cc3c16e09cd34b69](https://user-images.githubusercontent.com/44710227/188143280-7fbe5e18-a1b3-4011-a04d-2db7d9099302.gif)
 
 ## Constructor
 | Name | Description |
