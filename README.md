@@ -1,10 +1,12 @@
 # GifLib
-The class for creating gifs on Roblox.
+The class for creating GIFs on Roblox.
+
+![](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/e/6/1/e6176fbbced47d0006083c05cc3c16e09cd34b69.gif)
 
 ## Constructor
 | Name | Description |
 | ----------- | ----------- |
-| ```Gif.new(instance, id)``` | Constructs a gif on Roblox based on the instance passed. |
+| ```Gif.new(instance, id)``` | Constructs a GIF on Roblox based on the instance passed. |
 
 ## Properties
 | Name | Type | Description |
@@ -25,6 +27,6 @@ The class for creating gifs on Roblox.
 ## Functions
 | Name | Description |
 | ----------- | ----------- |
-| ```Play``` | Plays the gif animation. |
-| ```Stop``` | Stops the gif animation. |
-| ```Destroy``` | Destructs a gif object. |
+| ```Play``` | Plays the GIF animation. |
+| ```Stop``` | Stops the GIF animation. |
+| ```Destroy``` | Destructs a GIF object. |
